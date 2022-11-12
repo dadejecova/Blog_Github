@@ -1,0 +1,4 @@
+Hola
+Esta es una prueba desde comando sin interfaz gráfica.
+
+Soy Daniel y tengo 28 años.
